@@ -172,7 +172,7 @@
       <description>Rust I18n_codegen  Internationalization library for Rust based on code generation.
  The Little Book of Rust Macros  This book is an attempt to distil the Rust community&amp;#39;s collective knowledge of Rust macros. As such, both additions (in the form of pull requests) and requests (in the form of issues) are welcome.
  Juniper  GraphQL server library for Rust
- [Texture-synthesis]()  Example-based texture synthesis written in Rust</description>
+ Texture-synthesis  Example-based texture synthesis written in Rust</description>
     </item>
     
   </channel>
