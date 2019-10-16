@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Go | dinAlt&#39;s homepage</title>
+
+     
+      
+    
+    
+    
+    
+    
+
+  <meta name="author" content="">
+
+ 
+    <meta property="og:title" content="Go" />
+<meta property="og:description" content="Go Instrumenting your Go distributed application for tracing with Jaeger Go compiler internals: adding a new statement to Go - Part 1 How to work with Postgres in Go Vanity import paths in Go Super Graph  Get an instant high performance GraphQL API for Postgres. No code needed. GraphQL is automatically transformed into efficient database queries. Get an instant high performance GraphQL API for Postgres. No code needed. GraphQL is automatically transformed into efficient database queries." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/links/go/" />
+<meta property="article:published_time" content="2019-10-13T18:52:26+03:00" />
+<meta property="article:modified_time" content="2019-10-13T18:52:26+03:00" />
+ 
+    
+
+
+
+ 
+    
+     
+     
+    
+    
+    <link rel="canonical" href="/links/go/">   <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABwlBMVEUAAAA/3MUK07UJ0rRk6NkC0rMAw5sAx6Ic1rs/3MYAlU0E0rQAhjMAyKIAiTkM07UJ07UAhC8m2L4o2L5O4Msn2L4AzKoAzq0128Mo2b8F0rQE0rMu2cAt2cAA0bI228MA0LAAy6kr2b8Q1LcF0rMH0rUAxp4t2b8c1ros2b8P1LcAzKsAzq4528Q02sIM07YAfyg93cUD0rMA0LEA0bFK4c0M1LcL07Uv2sEAzawY1rlJ4c0w2sEAzKkY1rqr+PQN07Yj170G0rQI07UF0bMt2cAF0rMC0bIL07UF0bMs2cAF0rMA0bIC0bIL07UF0rMA0bIA0bIA0bIO1LYr2b8N07Yp2L4F0rMF0rQJ07UA0bIC0bMA0bIH0rQK07UD0bMA0LAF0rMAyqYE0rMA0bIS1Lg228ID0bMM07YS1LcI07QL07UJ07UC0bMM07YG0rMS1Lc328IR1LcC0bIK07UM07Yo2L4P1LcL07UD0rMD0rMD0rMB0bIH0rQ23MMQ1LcD0rMN1LYB0LAJ0rQ33MMG0bMP1bgD0rMN07YH0rQH0rQ33MQF0rMD0rMN1LYo2L4F0rQG0rSA6tsA0bIB0bL////yxqscAAAAk3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgnDXAUItvZKBAi6+vpMuf3++wEIAQcEBFn5AgR9UwMEoQLD/AEH4AIdAzha+UMEAQcc9AM4CAFSA9IC+4AEAc8yAwIEBAHOMQOBBLfLMAnFlAJNsa0LAAAAAWJLR0SVCGB6gwAAAAd0SU1FB+EBBBI4BduZ4woAAAF5SURBVDjLY2CAAUYmZgcWRydnVhc2dg4GTMAJlOdydZvs7sHtiU0FSJ7Hy3uyz2RfP24XNl4OLPJ8Xv5A+YBAsAo0M2DyQZMnY1fBL+AgCJXHrkIoWDgEJo9NhUioaBhCHqoiXExcAqZAMkIqckrU5MkoKqSjZeAmyMbIxSIZAFIRMCVOOl4epkAmQSERrwKOJMXkySl4rEhVSkufHDAZtyMzlDPdJweiyiN7UyRLIHsKQj5wMnowSIar5ExJQcjn5qnmqyFHlzqKL7EoQPMlphUaaL7EcGSBZiGKLzFUZGgVFSP5ElNFCVPpFORwhAeVto4uWEGwUJk3alSAVXhIR+tB7ShHTi5QkOIzpUKqEmKCPpODgReaipSUyVWl0tW6GEkWGhRBk2tq6wzrsSVqqPaGRqOmZmMTXWwqwNpbTFvbzMwtsGUMoPb2DqOmTksxK2xZLyhgck1XtzVIuw22zNszeXJvH0i7rR1G9gVlf/v+CRMnWaPYDgA74gwO0j2znAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNy0wMS0wNFQxODo1NjowNSswMTowME2yC4wAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTctMDEtMDRUMTg6NTY6MDUrMDE6MDA877MwAAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC">
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/slate/bulmaswatch.min.css"> 
+    <link rel="stylesheet" href="/css/landing.css">   
+    
+    
+</head>
+
+
+<body>
+    <header> <nav class="navbar is-transparent">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      dinAlt
+    </a>
+    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      
+      <a class="navbar-item" target="blank" href="https://github.com/dinalt">
+        <span class="icon">
+          <i class="fa fa-github"></i>
+        </span>
+      </a>
+      
+
+      
+    </div>
+    
+    
+    
+    <span class="navbar-burger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </span>
+    
+    
+    
+    <div class="navbar-end">
+      <div class="navbar-item">
+        
+        
+          <a itemprop="url" class="navbar-item  is-active" href="/links/"><span itemprop="name">Links</span></a>
+        
+      </div> 
+    </div>
+  </div>
+</nav>
+ </header>
+    <main>
+
+<div class="columns is-fullheight">
+    <div class="column">
+        <section class="hero is-default is-bold">
+            <div class="hero-body">
+                <div class="content container">
+                   
+
+<h1 id="go">Go</h1>
+
+<h5 id="instrumenting-your-go-distributed-application-for-tracing-with-jaeger-https-medium-com-carlosedp-instrumenting-go-for-tracing-c5bdabe1fc81"><a href="https://medium.com/@carlosedp/instrumenting-go-for-tracing-c5bdabe1fc81">Instrumenting your Go distributed application for tracing with Jaeger</a></h5>
+
+<h5 id="go-compiler-internals-adding-a-new-statement-to-go-part-1-https-eli-thegreenplace-net-2019-go-compiler-internals-adding-a-new-statement-to-go-part-1"><a href="https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/">Go compiler internals: adding a new statement to Go - Part 1</a></h5>
+
+<h5 id="how-to-work-with-postgres-in-go-https-medium-com-avitotech-how-to-work-with-postgres-in-go-bad2dabd13e4"><a href="https://medium.com/avitotech/how-to-work-with-postgres-in-go-bad2dabd13e4">How to work with Postgres in Go</a></h5>
+
+<h5 id="vanity-import-paths-in-go-https-sagikazarmark-hu-blog-vanity-import-paths-in-go"><a href="https://sagikazarmark.hu/blog/vanity-import-paths-in-go/">Vanity import paths in Go</a></h5>
+
+<h5 id="super-graph-https-supergraph-dev"><a href="https://supergraph.dev/">Super Graph</a></h5>
+
+<blockquote>
+<p>Get an instant high performance GraphQL API for Postgres. No code needed. GraphQL is automatically transformed into efficient database queries. Get an instant high performance GraphQL API for Postgres. No code needed. GraphQL is automatically transformed into efficient database queries.</p>
+</blockquote>
+
+<h5 id="excelize-https-github-com-360entsecgroup-skylar-excelize"><a href="https://github.com/360EntSecGroup-Skylar/excelize">Excelize</a></h5>
+
+<blockquote>
+<p>Golang library for reading and writing Microsoft Excel™ (XLSX) files.</p>
+</blockquote>
+
+<h5 id="mapstructure-https-godoc-org-github-com-mitchellh-mapstructure"><a href="https://godoc.org/github.com/mitchellh/mapstructure">Mapstructure</a></h5>
+
+<blockquote>
+<p>Package mapstructure exposes functionality to convert an arbitrary map[string]interface{} into a native Go structure.</p>
+</blockquote>
+
+<h5 id="semver-https-github-com-masterminds-semver"><a href="https://github.com/Masterminds/semver">Semver</a></h5>
+
+<blockquote>
+<p>Work with Semantic Versions in Go</p>
+</blockquote>
+
+<h5 id="adding-version-information-to-go-binaries-https-preslav-me-2019-07-09-adding-version-information-to-go-binaries"><a href="https://preslav.me/2019/07/09/adding-version-information-to-go-binaries/">Adding Version Information to Go Binaries</a></h5>
+
+<h5 id="go-guerrilla-https-github-com-flashmob-go-guerrilla"><a href="https://github.com/flashmob/go-guerrilla">Go-Guerrilla</a></h5>
+
+<blockquote>
+<p>Mini SMTP server written in golang</p>
+</blockquote>
+
+<h5 id="rain-https-github-com-cenkalti-rain"><a href="https://github.com/cenkalti/rain">Rain</a></h5>
+
+<blockquote>
+<p>BitTorrent client and library in Go</p>
+</blockquote>
+
+<h5 id="handling-timezones-in-go-https-medium-com-kamal-g-namdeo-handling-timezone-in-go-723b1e38639c"><a href="https://medium.com/@kamal.g.namdeo/handling-timezone-in-go-723b1e38639c">Handling timezones in Go</a></h5>
+
+<h5 id="learn-and-build-web-authentication-system-universal-principles-https-dev-to-dpkahuja-learn-and-build-web-authentication-system-universal-principles-370e"><a href="https://dev.to/dpkahuja/learn-and-build-web-authentication-system-universal-principles-370e">Learn and Build Web Authentication System (Universal Principles)</a></h5>
+
+<h5 id="expr-https-github-com-antonmedv-expr"><a href="https://github.com/antonmedv/expr">Expr</a></h5>
+
+<blockquote>
+<p>Expr package provides an engine that can compile and evaluate expressions. An expression is a one-liner that returns a value (mostly, but not limited to, booleans). It is designed for simplicity, speed and safety.</p>
+</blockquote>
+
+<h5 id="pigo-https-github-com-esimov-pigo"><a href="https://github.com/esimov/pigo">Pigo</a></h5>
+
+<blockquote>
+<p>Pigo is a pure Go face detection library based on Pixel Intensity Comparison-based Object detection paper</p>
+</blockquote>
+
+                </div>
+                <br>
+            </div>
+        </section>
+    </div>
+</div>
+</main>
+    <footer> 
+  <footer class="footer">
+    <div class="container">
+        <div class="content has-text-centered">
+            <p>
+                This page is generated using 
+                <a href="https://gohugo.io/">Hugo</a>, with its design
+                incorporating the
+                <a href="https://themes.gohugo.io/bulma/">Bulma</a> theme.
+                
+            </p>    
+        </div>
+    </div>
+</footer> 
+</footer>
+
+    <script async type="text/javascript" src="/js/bulma.js"></script>
+    <script async type="text/javascript"  src="/js/clipboard.min.js"></script>
+    <script async type="text/javascript"  src="/js/clip.js"></script>
+</body>
+
+</html>

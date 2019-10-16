@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-16T14:06:13+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/hosting-dns/</loc>
+    <lastmod>2019-10-16T14:06:13+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/wasm/</loc>
+    <lastmod>2019-10-16T13:45:16+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/media-streaming/</loc>
+    <lastmod>2019-10-16T13:45:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/js/</loc>
+    <lastmod>2019-10-16T13:44:49+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/html-css/</loc>
+    <lastmod>2019-10-16T13:44:22+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/git/</loc>
+    <lastmod>2019-10-16T13:43:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/bots/</loc>
+    <lastmod>2019-10-16T13:42:40+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/i18n/</loc>
+    <lastmod>2019-10-16T13:09:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/postgres/</loc>
+    <lastmod>2019-10-15T22:54:33+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/cli/</loc>
+    <lastmod>2019-10-15T22:54:24+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/arch/</loc>
+    <lastmod>2019-10-15T22:54:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/linux/</loc>
+    <lastmod>2019-10-15T22:53:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/go/</loc>
+    <lastmod>2019-10-13T18:52:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/vue/</loc>
+    <lastmod>2019-10-13T18:52:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/</loc>
+    <lastmod>2019-10-13T18:52:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/monitoring/</loc>
+    <lastmod>2019-10-13T18:52:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/rust/</loc>
+    <lastmod>2019-10-13T18:52:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
