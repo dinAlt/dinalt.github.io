@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dinAlt&#39;s homepage</title>
@@ -58,7 +58,7 @@
       <pubDate>Wed, 16 Oct 2019 13:44:22 +0300</pubDate>
       
       <guid>/links/html-css/</guid>
-      <description> Html and CSS Аккордеон, faq, спойлер и другие раскрывающиеся виджеты Sass MediaScreen — Определяем девайсы на CSS </description>
+      <description> Html and CSS Аккордеон, faq, спойлер и другие раскрывающиеся виджеты Sass MediaScreen — Определяем девайсы на CSS Нетривиальная расстановка элементов на flexbox без media-запросов </description>
     </item>
     
     <item>
