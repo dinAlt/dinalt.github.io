@@ -12,13 +12,32 @@
     
     
     <item>
+      <title>Go</title>
+      <link>/links/macos/</link>
+      <pubDate>Sat, 30 Nov 2019 02:34:26 +0300</pubDate>
+      
+      <guid>/links/macos/</guid>
+      <description>MacOS macOS-Simple-KVM  Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+ </description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>/links/ml/</link>
+      <pubDate>Sat, 30 Nov 2019 02:34:26 +0300</pubDate>
+      
+      <guid>/links/ml/</guid>
+      <description>Machine Learning Конспект по «Машинному обучению». Математический анализ. Градиентный спуск </description>
+    </item>
+    
+    <item>
       <title>Hosting Dns</title>
       <link>/links/hosting-dns/</link>
       <pubDate>Wed, 16 Oct 2019 14:06:13 +0300</pubDate>
       
       <guid>/links/hosting-dns/</guid>
-      <description> Cloud, hosting and DNS services Freenom  Free domains
- </description>
+      <description>Cloud, hosting and DNS services Freenom  Free domains
+ Тестирование дешевых виртуальных серверов </description>
     </item>
     
     <item>
@@ -27,10 +46,10 @@
       <pubDate>Wed, 16 Oct 2019 13:45:16 +0300</pubDate>
       
       <guid>/links/wasm/</guid>
-      <description> WASM Watt  Watt is a runtime for executing Rust procedural macros compiled as WebAssembly.
+      <description>WASM Watt  Watt is a runtime for executing Rust procedural macros compiled as WebAssembly.
  Standardizing WASI: A system interface to run WebAssembly outside the web WASI Core API Wasmtime  A WebAssembly Runtime
  Wasmer  Wasmer is a standalone WebAssembly runtime for running WebAssembly outside of the browser, supporting WASI and Emscripten.
- Wasmer vs Wasmtime </description>
+ Wasmer vs Wasmtime Build FFmpeg WebAssembly version (= ffmpeg.js): Part.1 Preparation </description>
     </item>
     
     <item>
@@ -39,7 +58,7 @@
       <pubDate>Wed, 16 Oct 2019 13:45:03 +0300</pubDate>
       
       <guid>/links/media-streaming/</guid>
-      <description> Media streaming Смотри меня полностью: выжимаем максимум из live video на мобильных платформах </description>
+      <description>Media streaming Смотри меня полностью: выжимаем максимум из live video на мобильных платформах </description>
     </item>
     
     <item>
@@ -48,7 +67,7 @@
       <pubDate>Wed, 16 Oct 2019 13:44:49 +0300</pubDate>
       
       <guid>/links/js/</guid>
-      <description> JS JSON Editor  JSON Editor is a web-based tool to view, edit, format, and validate JSON. It has various modes such as a tree editor, a code editor, and a plain text editor.
+      <description>JS JSON Editor  JSON Editor is a web-based tool to view, edit, format, and validate JSON. It has various modes such as a tree editor, a code editor, and a plain text editor.
  Видеозвонок в браузере на PeerJS. Быстрый старт Отправка сообщений peer-to-peer при помощи PeerJS Modern Script Loading </description>
     </item>
     
@@ -58,7 +77,7 @@
       <pubDate>Wed, 16 Oct 2019 13:44:22 +0300</pubDate>
       
       <guid>/links/html-css/</guid>
-      <description> Html and CSS Аккордеон, faq, спойлер и другие раскрывающиеся виджеты Sass MediaScreen — Определяем девайсы на CSS Нетривиальная расстановка элементов на flexbox без media-запросов </description>
+      <description>Html and CSS Аккордеон, faq, спойлер и другие раскрывающиеся виджеты Sass MediaScreen — Определяем девайсы на CSS Нетривиальная расстановка элементов на flexbox без media-запросов </description>
     </item>
     
     <item>
@@ -67,7 +86,7 @@
       <pubDate>Wed, 16 Oct 2019 13:43:10 +0300</pubDate>
       
       <guid>/links/git/</guid>
-      <description> Git Gitea  Gitea is a painless self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs. See the Gitea Announcement blog post to read about the justification for a fork.
+      <description>Git Gitea  Gitea is a painless self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs. See the Gitea Announcement blog post to read about the justification for a fork.
  </description>
     </item>
     
@@ -77,7 +96,7 @@
       <pubDate>Wed, 16 Oct 2019 13:42:40 +0300</pubDate>
       
       <guid>/links/bots/</guid>
-      <description> Bots Python-скрипт на 20 строк, который каждый день желает родителям доброго утра через WhatsApp </description>
+      <description>Bots Python-скрипт на 20 строк, который каждый день желает родителям доброго утра через WhatsApp </description>
     </item>
     
     <item>
@@ -86,7 +105,7 @@
       <pubDate>Wed, 16 Oct 2019 13:09:44 +0300</pubDate>
       
       <guid>/links/i18n/</guid>
-      <description> I18n How to do I18N through gettext </description>
+      <description>I18n How to do I18N through gettext </description>
     </item>
     
     <item>
@@ -95,7 +114,7 @@
       <pubDate>Tue, 15 Oct 2019 22:54:33 +0300</pubDate>
       
       <guid>/links/postgres/</guid>
-      <description> Postgres MVCC-1. Изоляция WAL в PostgreSQL: 1. Буферный кеш Блокировки в PostgreSQL: 1. Блокировки отношений Настройка параметров ядра Linux для оптимизации PostgreSQL Настройка параметров PostgreSQL для оптимизации производительности </description>
+      <description>Postgres MVCC-1. Изоляция WAL в PostgreSQL: 1. Буферный кеш Блокировки в PostgreSQL: 1. Блокировки отношений Настройка параметров ядра Linux для оптимизации PostgreSQL Настройка параметров PostgreSQL для оптимизации производительности </description>
     </item>
     
     <item>
@@ -104,11 +123,12 @@
       <pubDate>Tue, 15 Oct 2019 22:54:24 +0300</pubDate>
       
       <guid>/links/cli/</guid>
-      <description> CLI Jtool  This project implemented a set of tools to create, manipulate and validate JSONs.
+      <description>CLI Jtool  This project implemented a set of tools to create, manipulate and validate JSONs.
  Ace  Ace is a resource update notifier which triggers a webhook or a script when resources are updated.
  Gif-progress  Attach progress bar to animated GIF
  Emosaic  Mosaic generator written in Rust!
- </description>
+ Buf  A new way of working with Protocol Buffers
+ pst  This is TUI process monitor written in Go.</description>
     </item>
     
     <item>
@@ -117,7 +137,7 @@
       <pubDate>Tue, 15 Oct 2019 22:54:04 +0300</pubDate>
       
       <guid>/links/arch/</guid>
-      <description> Arch Replicate your system with self-hosted Arch Linux metapackages </description>
+      <description>Arch Replicate your system with self-hosted Arch Linux metapackages </description>
     </item>
     
     <item>
@@ -126,7 +146,7 @@
       <pubDate>Tue, 15 Oct 2019 22:53:32 +0300</pubDate>
       
       <guid>/links/linux/</guid>
-      <description> Linux Хаки при работе с большим числом мелких файлов Глубокое погружение в Linux namespaces Глубокое погружение в Linux namespaces, часть 2 Decoded: GNU coreutils  This resource is for novice programmers exploring the design of command-line utilities.
+      <description>Linux Хаки при работе с большим числом мелких файлов Глубокое погружение в Linux namespaces Глубокое погружение в Linux namespaces, часть 2 Decoded: GNU coreutils  This resource is for novice programmers exploring the design of command-line utilities.
  Команда cp: правильное копирование папок с файлами в *nix </description>
     </item>
     
@@ -149,8 +169,8 @@
  CKEditor 5  Rich text editor component for Vue.js
  Tiptap  A renderless and extendable rich-text editor for Vue.js
  A few handy Vue.js tricks Quasar Framework  Build high-performance VueJS user interfaces in record time
- Element  A Desktop UI Library
- Vue File Agent  High performant Vue file upload component with elegant and distinguishable previews for every file type and support for drag and drop, validations, default uploader with progress support and externally customizable in the &amp;#34;vue way&amp;#34;</description>
+ [Element](Build high-performance VueJS user interfaces in record time)  A Desktop UI Library
+ Vue File Agent  High performant Vue file upload component with elegant and distinguishable previews for every file type and support for drag and drop, validations, default uploader with progress support and externally customizable in the &amp;quot;vue way&amp;quot;</description>
     </item>
     
     <item>
@@ -159,8 +179,8 @@
       <pubDate>Sun, 13 Oct 2019 18:52:26 +0300</pubDate>
       
       <guid>/links/monitoring/</guid>
-      <description> Monitoring Jaeger  Jaeger: open source, end-to-end distributed tracing
- Как с Prometheus собирать метрики, не искаженные привязкой ко времени Prometheus Counters and how to deal with them </description>
+      <description>Monitoring Jaeger  Jaeger: open source, end-to-end distributed tracing
+ Как с Prometheus собирать метрики, не искаженные привязкой ко времени Prometheus Counters and how to deal with them Логи не нужны? </description>
     </item>
     
     <item>
@@ -170,7 +190,7 @@
       
       <guid>/links/rust/</guid>
       <description>Rust I18n_codegen  Internationalization library for Rust based on code generation.
- The Little Book of Rust Macros  This book is an attempt to distil the Rust community&amp;#39;s collective knowledge of Rust macros. As such, both additions (in the form of pull requests) and requests (in the form of issues) are welcome.
+ The Little Book of Rust Macros  This book is an attempt to distil the Rust community&#39;s collective knowledge of Rust macros. As such, both additions (in the form of pull requests) and requests (in the form of issues) are welcome.
  Juniper  GraphQL server library for Rust
  Texture-synthesis  Example-based texture synthesis written in Rust</description>
     </item>
