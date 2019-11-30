@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>/links/macos/</loc>
+    <loc>/links/ml/</loc>
     <lastmod>2019-11-30T02:34:26+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/links/ml/</loc>
+    <loc>/links/macos/</loc>
     <lastmod>2019-11-30T02:34:26+03:00</lastmod>
   </url>
   
@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/links/legal/</loc>
+    <lastmod>2019-10-15T22:54:24+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/links/arch/</loc>
     <lastmod>2019-10-15T22:54:04+03:00</lastmod>
   </url>
@@ -78,12 +83,12 @@
   </url>
   
   <url>
-    <loc>/links/go/</loc>
+    <loc>/links/cryptography/</loc>
     <lastmod>2019-10-13T18:52:26+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/links/vue/</loc>
+    <loc>/links/go/</loc>
     <lastmod>2019-10-13T18:52:26+03:00</lastmod>
   </url>
   
@@ -99,6 +104,11 @@
   
   <url>
     <loc>/links/rust/</loc>
+    <lastmod>2019-10-13T18:52:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/vue/</loc>
     <lastmod>2019-10-13T18:52:26+03:00</lastmod>
   </url>
   

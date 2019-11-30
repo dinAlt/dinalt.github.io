@@ -12,22 +12,23 @@
     
     
     <item>
-      <title>Go</title>
+      <title>Machine Learning</title>
+      <link>/links/ml/</link>
+      <pubDate>Sat, 30 Nov 2019 02:34:26 +0300</pubDate>
+      
+      <guid>/links/ml/</guid>
+      <description>Machine Learning Конспект по «Машинному обучению». Математический анализ. Градиентный спуск Огромный открытый датасет русской речи версия 1.0 Julia и нейронные сети: Flux Flux  The Elegant Machine Learning Stack
+ </description>
+    </item>
+    
+    <item>
+      <title>MacOS</title>
       <link>/links/macos/</link>
       <pubDate>Sat, 30 Nov 2019 02:34:26 +0300</pubDate>
       
       <guid>/links/macos/</guid>
       <description>MacOS macOS-Simple-KVM  Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
  </description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>/links/ml/</link>
-      <pubDate>Sat, 30 Nov 2019 02:34:26 +0300</pubDate>
-      
-      <guid>/links/ml/</guid>
-      <description>Machine Learning Конспект по «Машинному обучению». Математический анализ. Градиентный спуск </description>
     </item>
     
     <item>
@@ -49,7 +50,7 @@
       <description>WASM Watt  Watt is a runtime for executing Rust procedural macros compiled as WebAssembly.
  Standardizing WASI: A system interface to run WebAssembly outside the web WASI Core API Wasmtime  A WebAssembly Runtime
  Wasmer  Wasmer is a standalone WebAssembly runtime for running WebAssembly outside of the browser, supporting WASI and Emscripten.
- Wasmer vs Wasmtime Build FFmpeg WebAssembly version (= ffmpeg.js): Part.1 Preparation </description>
+ Wasmer vs Wasmtime Build FFmpeg WebAssembly version (= ffmpeg.js): Part.1 Preparation hyperpixel  An extremely fast pixel framebuffer using webgl via ThreeJS</description>
     </item>
     
     <item>
@@ -58,7 +59,8 @@
       <pubDate>Wed, 16 Oct 2019 13:45:03 +0300</pubDate>
       
       <guid>/links/media-streaming/</guid>
-      <description>Media streaming Смотри меня полностью: выжимаем максимум из live video на мобильных платформах </description>
+      <description>Media streaming Смотри меня полностью: выжимаем максимум из live video на мобильных платформах Стриминг видеозвонков по RTMP Digital video introduction  A gentle introduction to video technology, although it&#39;s aimed at software developers / engineers, we want to make it easy for anyone to learn.
+ </description>
     </item>
     
     <item>
@@ -77,7 +79,7 @@
       <pubDate>Wed, 16 Oct 2019 13:44:22 +0300</pubDate>
       
       <guid>/links/html-css/</guid>
-      <description>Html and CSS Аккордеон, faq, спойлер и другие раскрывающиеся виджеты Sass MediaScreen — Определяем девайсы на CSS Нетривиальная расстановка элементов на flexbox без media-запросов </description>
+      <description>Html and CSS Аккордеон, faq, спойлер и другие раскрывающиеся виджеты Sass MediaScreen — Определяем девайсы на CSS Нетривиальная расстановка элементов на flexbox без media-запросов Как проектировать большие и сложные веб-таблицы Использование полифиллов при написании кросс-браузерных приложений Webpack Polyfill Injector Plugin </description>
     </item>
     
     <item>
@@ -114,11 +116,11 @@
       <pubDate>Tue, 15 Oct 2019 22:54:33 +0300</pubDate>
       
       <guid>/links/postgres/</guid>
-      <description>Postgres MVCC-1. Изоляция WAL в PostgreSQL: 1. Буферный кеш Блокировки в PostgreSQL: 1. Блокировки отношений Настройка параметров ядра Linux для оптимизации PostgreSQL Настройка параметров PostgreSQL для оптимизации производительности </description>
+      <description>Postgres MVCC-1. Изоляция WAL в PostgreSQL: 1. Буферный кеш Блокировки в PostgreSQL: 1. Блокировки отношений Настройка параметров ядра Linux для оптимизации PostgreSQL Настройка параметров PostgreSQL для оптимизации производительности Инкрементальные бэкапы postgresql с pgbackrest — курс молодого бойца от разработчика О чем молчит EXPLAIN, и как его разговорить Мой первый опыт восстановления базы данных Postgres после сбоя (invalid page in block 4123007 of relatton base/16490) </description>
     </item>
     
     <item>
-      <title>Cli</title>
+      <title>CLI</title>
       <link>/links/cli/</link>
       <pubDate>Tue, 15 Oct 2019 22:54:24 +0300</pubDate>
       
@@ -129,6 +131,15 @@
  Emosaic  Mosaic generator written in Rust!
  Buf  A new way of working with Protocol Buffers
  pst  This is TUI process monitor written in Go.</description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>/links/legal/</link>
+      <pubDate>Tue, 15 Oct 2019 22:54:24 +0300</pubDate>
+      
+      <guid>/links/legal/</guid>
+      <description>Legal Какие инструменты помогут соответствовать GDPR </description>
     </item>
     
     <item>
@@ -151,26 +162,21 @@
     </item>
     
     <item>
+      <title>Cryptography</title>
+      <link>/links/cryptography/</link>
+      <pubDate>Sun, 13 Oct 2019 18:52:26 +0300</pubDate>
+      
+      <guid>/links/cryptography/</guid>
+      <description>Cryptography Как работает криптография на основе эллиптических кривых в TLS 1.3 </description>
+    </item>
+    
+    <item>
       <title>Go</title>
       <link>/links/go/</link>
       <pubDate>Sun, 13 Oct 2019 18:52:26 +0300</pubDate>
       
       <guid>/links/go/</guid>
       <description>Go Instrumenting your Go distributed application for tracing with Jaeger Go compiler internals: adding a new statement to Go - Part 1 How to work with Postgres in Go Vanity import paths in Go Super Graph  Get an instant high performance GraphQL API for Postgres. No code needed. GraphQL is automatically transformed into efficient database queries. Get an instant high performance GraphQL API for Postgres. No code needed. GraphQL is automatically transformed into efficient database queries.</description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>/links/vue/</link>
-      <pubDate>Sun, 13 Oct 2019 18:52:26 +0300</pubDate>
-      
-      <guid>/links/vue/</guid>
-      <description>Vue Vue Spinners CSS Loaders  Amazing collection of Vue spinners components with pure css.
- CKEditor 5  Rich text editor component for Vue.js
- Tiptap  A renderless and extendable rich-text editor for Vue.js
- A few handy Vue.js tricks Quasar Framework  Build high-performance VueJS user interfaces in record time
- [Element](Build high-performance VueJS user interfaces in record time)  A Desktop UI Library
- Vue File Agent  High performant Vue file upload component with elegant and distinguishable previews for every file type and support for drag and drop, validations, default uploader with progress support and externally customizable in the &amp;quot;vue way&amp;quot;</description>
     </item>
     
     <item>
@@ -193,6 +199,20 @@
  The Little Book of Rust Macros  This book is an attempt to distil the Rust community&#39;s collective knowledge of Rust macros. As such, both additions (in the form of pull requests) and requests (in the form of issues) are welcome.
  Juniper  GraphQL server library for Rust
  Texture-synthesis  Example-based texture synthesis written in Rust</description>
+    </item>
+    
+    <item>
+      <title>Vue</title>
+      <link>/links/vue/</link>
+      <pubDate>Sun, 13 Oct 2019 18:52:26 +0300</pubDate>
+      
+      <guid>/links/vue/</guid>
+      <description>Vue Vue Spinners CSS Loaders  Amazing collection of Vue spinners components with pure css.
+ CKEditor 5  Rich text editor component for Vue.js
+ Tiptap  A renderless and extendable rich-text editor for Vue.js
+ A few handy Vue.js tricks Quasar Framework  Build high-performance VueJS user interfaces in record time
+ Element  Element, a Vue 2.0 based component library for developers, designers and product managers
+ Vue File Agent  High performant Vue file upload component with elegant and distinguishable previews for every file type and support for drag and drop, validations, default uploader with progress support and externally customizable in the &amp;quot;vue way&amp;quot;</description>
     </item>
     
   </channel>
