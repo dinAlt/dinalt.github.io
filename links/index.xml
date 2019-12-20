@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Python</title>
+      <link>/links/python/</link>
+      <pubDate>Fri, 20 Dec 2019 13:47:00 +0300</pubDate>
+      
+      <guid>/links/python/</guid>
+      <description>Python Sanic  Sanic is a Python 3.6+ web server and web framework that&#39;s written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy.
+ </description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>/links/ml/</link>
       <pubDate>Sat, 30 Nov 2019 02:34:26 +0300</pubDate>
